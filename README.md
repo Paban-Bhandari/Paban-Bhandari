@@ -71,11 +71,11 @@
 
 ---
 
-### GitHub Trophies
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Paban-Bhandari&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Paban-Bhandari&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Paban-Bhandari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Paban-Bhandari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
