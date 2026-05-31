@@ -73,7 +73,7 @@
 
 ### GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=Paban-Bhandari&theme=github-compact&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=Paban-Bhandari&theme=tint&hide_border=true)<br/>
 
 ---
 
