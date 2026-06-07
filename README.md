@@ -71,12 +71,6 @@
 
 ---
 
-### GitHub Stats
-
-![](https://streak-stats.demolab.com/?user=Paban-Bhandari&theme=dark&hide_border=true)<br/>
-
----
-
 ### GitHub Contribution
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paban-Bhandari&theme=github-compact" />
