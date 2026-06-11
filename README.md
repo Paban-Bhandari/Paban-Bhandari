@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </a>
     &nbsp;
-  <a href="https://www.instagram.com/paban_bhandari" target="_blank" rel="noreferrer" style="text-decoration:none;">
+  <a href="https://www.instagram.com/quixotix__01" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="32" height="32" alt="Instagram" title="Instagram" />
   </a>
     &nbsp;
