@@ -1,3 +1,7 @@
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/paban-bhandari/paban-bhandari/snake-output/snake.svg" alt="Snake animation" />
+
 <h1 align="center">Hi, I'm Paban Bhandari</h1>
 <h3 align="center">An aspiring Python Developer from Nepal</h3>
 
