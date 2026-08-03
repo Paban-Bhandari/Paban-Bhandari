@@ -71,12 +71,6 @@
 
 ---
 
-### GitHub Contribution
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paban-Bhandari&theme=github-compact" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Paban-Bhandari&color=0891b2&style=flat" alt="Profile Views" />
